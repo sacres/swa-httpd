@@ -1,6 +1,6 @@
 ## httpd
 
-[![Travis CI](http://img.shields.io/travis/sacres/ansible/roles/httpd.svg?style=flat)](http://travis-ci.org/sacres/ansible/roles/httpd)  [![Platforms](http://img.shields.io/badge/platforms-el-lightgrey.svg?style=flat)](#)
+  [![Platforms](http://img.shields.io/badge/platforms-EL-blue.svg?style=flat)](#)
 
 Install/configure httpd (Apache).
 
@@ -18,11 +18,10 @@ List of default variables available in the inventory:
 
 ansible-playbook -i inventory/foo httpd.yml or include in top-level playbook.
 
-
 ### Authors and license
 
 `httpd` role was written by:
-- [Steven Acres](https://github.com/sacres/ansible) | [e-mail](mailto:steven@swatteksystems.com) | [Twitter](https://twitter.com/swamobil)
+- [Steven Acres](https://github.com/sacres) | [e-mail](mailto:steven@swatteksystems.com) | [Twitter](https://twitter.com/swamobil)
 License: [BSDv3](https://tldrlegal.com/license/bsd-3-clause-license-(revised))
 
 ***
